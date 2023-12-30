@@ -60,3 +60,24 @@ h1{
 /* .icon-bar a:hover {
   background-color: rgb(120, 40, 120);
 } */
+
+.align{
+  align-items: center;
+  text-align: center;
+}
+
+.logo{
+  width: 100px;
+  height: 100px;
+}
+.link-logo{
+  display: flex;
+}
+/* }
+.coding-logo{
+  margin: 20px 0;
+} */
+.logo2{
+  width: 80px;
+  height: 80px;
+}
